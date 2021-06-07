@@ -1,4 +1,4 @@
-# trabajo-practico-7-vue
+# TP7 - VueJS
 
 ## Project setup
 ```
